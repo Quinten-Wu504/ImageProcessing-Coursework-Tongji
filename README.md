@@ -19,5 +19,3 @@ python main.py
 ```
 
 Run each HW1–HW4 demo from its assignment directory. ImageNetResizeHist has its own requirements and dataset instructions. Supply your own images at the paths listed in each README. Matplotlib displays the results in desktop windows.
-
-This repository contains the original coursework code and documentation only. Test images, datasets, reports, slides, final projects, and the HVI-CIDNet reproduction are excluded.
