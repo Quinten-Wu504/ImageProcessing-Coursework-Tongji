@@ -1,0 +1,21 @@
+# Only coursework source and documentation are tracked.
+*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/HW1-FilterPractice/
+!/HW2-EqualizeHist/
+!/HW3-SpecifyHist/
+!/HW4-Logic&Filter&Edge/
+!/HW1-FilterPractice/*.py
+!/HW2-EqualizeHist/*.py
+!/HW3-SpecifyHist/*.py
+!/HW4-Logic&Filter&Edge/*.py
+!/HW1-FilterPractice/README.md
+!/HW2-EqualizeHist/README.md
+!/HW3-SpecifyHist/README.md
+!/HW4-Logic&Filter&Edge/README.md
+!/ImageNetResizeHist/
+!/ImageNetResizeHist/*.py
+!/ImageNetResizeHist/README.md
+!/ImageNetResizeHist/requirements.txt

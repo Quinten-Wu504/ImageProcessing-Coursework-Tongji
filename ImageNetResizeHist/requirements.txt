@@ -1,0 +1,8 @@
+-r ../requirements.txt
+torch
+torchvision
+Pillow
+tqdm
+pandas
+scikit-image
+openpyxl
